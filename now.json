@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "landing-page",
+  "alias": ["dizzy322.now.sh"],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    }
+  ],
+  "github": {
+    "enable": true,
+    "autoAlias": true
+  },
+  "public": true,
+  "region": ["all"]
+}

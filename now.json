@@ -13,5 +13,5 @@
     "autoAlias": true
   },
   "public": true,
-  "region": ["all"]
+  "regions": ["all"]
 }
